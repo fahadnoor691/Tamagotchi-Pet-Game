@@ -11,8 +11,6 @@ using namespace std;
 Pet* createPet()
 {
 	int choice = 1;
-	int* var = new int;
-
 
 	Pet* pet;
 	while (choice == 1 || choice == 2 || choice == 3)
